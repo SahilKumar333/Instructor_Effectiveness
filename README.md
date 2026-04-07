@@ -28,5 +28,3 @@ This project analyzes and predicts instructor effectiveness using data-driven te
 - Scikit-learn  
 
 ---
-
-## 📁 Project Structure
